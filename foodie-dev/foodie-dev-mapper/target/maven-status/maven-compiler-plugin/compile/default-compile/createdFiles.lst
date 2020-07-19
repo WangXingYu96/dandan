@@ -1,0 +1,14 @@
+com\dandan\mapper\CarouselMapper.class
+com\dandan\mapper\UserAddressMapper.class
+com\dandan\mapper\ItemsSpecMapper.class
+com\dandan\my\mapper\MyMapper.class
+com\dandan\mapper\OrderItemsMapper.class
+com\dandan\mapper\OrderStatusMapper.class
+com\dandan\mapper\ItemsParamMapper.class
+com\dandan\mapper\CategoryMapper.class
+com\dandan\mapper\ItemsCommentsMapper.class
+com\dandan\mapper\ItemsImgMapper.class
+com\dandan\mapper\OrdersMapper.class
+com\dandan\mapper\StuMapper.class
+com\dandan\mapper\UsersMapper.class
+com\dandan\mapper\ItemsMapper.class
